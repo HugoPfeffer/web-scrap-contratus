@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
     <img height="150px" alt="" src="">
-</p>
+</p> -->
 
 <h1 align="center">
     Web Scrap Script 
