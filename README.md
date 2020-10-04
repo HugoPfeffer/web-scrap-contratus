@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="150px alt="Logo Codenation" src="">
+    <img height="150px" alt="" src="">
 </p>
 
 <h1 align="center">
@@ -13,7 +13,7 @@
 <p align="center">
     <img alt="Made By" src="https://img.shields.io/badge/Made%20By-Hugo%20Pfeffer-red">
     <img alt="Top Languages" src="https://img.shields.io/github/languages/top/HugoPfeffer/web-scrap-contratus">
-    <img alt="License" src="https://img.shields.io/github/license/HugoPfeffer/web-scrao-contratus">
+    <img alt="License" src="https://img.shields.io/github/license/HugoPfeffer/web-scrap-contratus">
 </p>
 
 </br>
